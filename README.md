@@ -30,12 +30,6 @@ Recent patches to [wordpress-develop](https://github.com/WordPress/wordpress-dev
 - Quick Edit: allow removing all categories from a post ([PR #16088](https://github.com/WordPress/wordpress-develop/pull/16088), [Trac #66729](https://core.trac.wordpress.org/ticket/66729))
 - Taxonomy: add `search_columns` support to `WP_Term_Query` and search term descriptions in the admin ([PR #14138](https://github.com/WordPress/wordpress-develop/pull/14138), [Trac #66281](https://core.trac.wordpress.org/ticket/66281))
 - Editor: remove the unused `wp_get_state_style_with_fallback_dimension_styles()` ([PR #14121](https://github.com/WordPress/wordpress-develop/pull/14121), [Trac #66274](https://core.trac.wordpress.org/ticket/66274))
-- Comments: update the "Mine" view count after AJAX moderation actions ([PR #14114](https://github.com/WordPress/wordpress-develop/pull/14114), [Trac #66272](https://core.trac.wordpress.org/ticket/66272))
-- Comments: hide zero-count status filters on the Comments list table ([PR #14056](https://github.com/WordPress/wordpress-develop/pull/14056), [Trac #66260](https://core.trac.wordpress.org/ticket/66260))
-- REST API: fix a fatal error in `rest_filter_response_fields()` with object response data ([PR #13931](https://github.com/WordPress/wordpress-develop/pull/13931), [Trac #66230](https://core.trac.wordpress.org/ticket/66230))
-- Embeds: strip an existing `#?secret=` fragment before appending a new one in `wp_filter_oembed_result()` ([PR #13868](https://github.com/WordPress/wordpress-develop/pull/13868), [Trac #66218](https://core.trac.wordpress.org/ticket/66218))
-- I18N: validate MO header and table offsets before use in `WP_Translation_File_MO` ([PR #13850](https://github.com/WordPress/wordpress-develop/pull/13850), [Trac #66217](https://core.trac.wordpress.org/ticket/66217))
-- Multisite: fix invalid markup and clarify docs for the `myblogs_options` filter ([PR #13849](https://github.com/WordPress/wordpress-develop/pull/13849), [Trac #66216](https://core.trac.wordpress.org/ticket/66216))
 
 #### Tools I use
 
