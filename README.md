@@ -1,6 +1,11 @@
 ### Hi, I'm Abdi 👋
 
-WordPress engineer focused on plugin development and the **block editor (Gutenberg)**. I build blocks, editor sidebars and settings UIs in React on top of `@wordpress/*` packages, and the PHP and REST APIs behind them.
+WordPress engineer building plugins that run on millions of sites. I've worked on two of the leading plugins in the WordPress ecosystem:
+
+- **[Rank Math SEO](https://wordpress.org/plugins/seo-by-rank-math/)** at [group.one](https://group.one): the free and Pro plugins, including their blocks and editor integrations, REST APIs, security fixes, and CI and release tooling.
+- **[Formidable Forms](https://wordpress.org/plugins/formidable/)** at [Strategy11](https://strategy11.com): form builder features, field settings and the Form block.
+
+I also contribute patches to WordPress core. My focus is the block editor (Gutenberg): blocks and editor UIs in React on `@wordpress/*` packages, and the PHP and REST APIs behind them, with tested, secure, standards-compliant code.
 
 #### Gutenberg
 
